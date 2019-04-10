@@ -19,6 +19,7 @@ To do this, you should install dependencies with `Composer` first:
 $ composer install
 ```
 
+
 Read more about how to install and use `Composer` on your local machine [here](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx).
 
 To run the tests use `phpunit`:
